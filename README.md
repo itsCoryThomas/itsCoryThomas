@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @itsCoryThomas
+- 👀 I’m interested in software / app development, as well as (hobby) game development.
+- 🌱 I’m currently learning Python again, then I'll move on to front-end.
+- 💞️ I’m looking to collaborate on... nothing - at the moment, at least. Soon though!
+- 📫 How to reach me ... I'm under @itsCoryThomas on most social media.
